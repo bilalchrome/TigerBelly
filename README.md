@@ -6,6 +6,8 @@ The script pulls the link of the episode from **urls.txt** file which contains a
 
 When running the script, only write the number of the episode itself. I will be updating the txt file weekly with new episodes coming out. 
 
+**Make sure the txt file and the script are in the same directory, otherwise you will have to specifiy that in the script**
+
 ## Dependencies
 
 + mpv
