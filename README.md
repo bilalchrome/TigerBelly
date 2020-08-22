@@ -4,9 +4,11 @@ This is a 2-line bash script which plays any episode of TigerBelly you request.
 
 The script pulls the link of the episode from **urls.txt** file which contains all the links to all the episodes on YouTube. 
 
-When running the script, only write the number of the episode itself. I will be updating the txt file weekly with new episodes coming out. 
+## How to run it
 
-**Make sure the txt file and the script are in the same directory, otherwise you will have to specifiy that in the script**
++ Change permission of script to executable by running '''chmod +x tb_ep.sh'''
++ Run the script by typing '''./tb_ep.sh'''
++ Type in the episode number press enter
 
 ## Dependencies
 
